@@ -1,3 +1,3 @@
-# PLI
+# Standard ML compiler
 
-This is a repository for Programming Language Implementation class at Wesleyan University.
+This is a repository for functional programming language implementation (Standard ML).
